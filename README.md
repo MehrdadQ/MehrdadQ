@@ -1,6 +1,6 @@
 ### Hi there, I'm Mehrdad Ghannad 😀
 
-I am a Computer Science student at the University of Toronto, specializing in Software Engineering.
+I am a Computer Science student at the University of Toronto, specializing in Software Engineering. <br/>
 Check out my portfolio at https://mehrdadq.github.io/
 
 - 💬 Languages: Python, C++, C, Java, HTML/CSS, JavaScript
