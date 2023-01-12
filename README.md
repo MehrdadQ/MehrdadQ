@@ -1,9 +1,9 @@
 ### Hi there, I'm Mehrdad Ghannad 😀
 
-I am a Computer Science student at the University of Toronto, specializing in Software Engineering. <br/>
+I'm a 3rd year Computer Science student at the University of Toronto, specializing in Software Engineering. <br/>
 Check out my portfolio at https://mehrdadq.github.io/
 
-- 💬 Languages: Python, C++, C, Java, HTML/CSS, JavaScript
-- 🛠 Tools and Frameworks: React.js, Node.js, Django, Bootstrap, MySQL, Android Studio, SAS Studio
-- 🔭 I’m currently seeking Fall 2022 Internships
+- 💬 Languages: Python, C++, C, Java, HTML/CSS, JavaScript, SQL
+- 🛠 Tools and Frameworks: React.js, Node.js, Django, Android Studio, Ansible Tower, Docker, Git
+- 🔭 I’m currently seeking Summer 2023 Internships
 - 📫 How to reach me: mehrdad.ghannad@mail.utoronto.ca
